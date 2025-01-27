@@ -1,0 +1,2 @@
+# skrypty
+Skrypty przyśpieszające prace
