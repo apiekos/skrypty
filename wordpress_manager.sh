@@ -1,4 +1,5 @@
 #!/bin/bash
+# Aby skrypt zadziałał w pierwszej kolejności utwórz w bazie nowego użytkownika dla baz danych WP poleceniem CREATE USER 'nazwa_użytkownika_bazy_wordpressa'@'localhost' IDENTIFIED BY 'hasło_do_bazy_wordpressa';
 
 # Funkcja tworzenia nowego projektu WordPress
 create_project() {
